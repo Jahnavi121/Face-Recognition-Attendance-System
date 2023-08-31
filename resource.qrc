@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>IMG_20230114_174344.jpg</file>
+    <file>IMG-7395.JPG</file>
+    <file>IMG-7394.jpg</file>
+    <file>IMG-7393.jpg</file>
+    <file>back1.png</file>
+    <file>IMG_7391.jpg</file>
+    <file>xbsfzsltjksfompa.jpg</file>
+    <file>page1background.jpg</file>
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
